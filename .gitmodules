@@ -1,0 +1,6 @@
+[submodule "apix"]
+	path = apix
+	url = git@github.com:M-JavadHeydarpour/apix.git
+[submodule "language-detector"]
+	path = language-detector
+	url = git@github.com:M-JavadHeydarpour/language-detector.git
