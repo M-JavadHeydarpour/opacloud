@@ -4,3 +4,6 @@
 [submodule "language-detector"]
 	path = language-detector
 	url = git@github.com:M-JavadHeydarpour/language-detector.git
+[submodule "image-builder"]
+	path = image-builder
+	url = git@github.com:M-JavadHeydarpour/image-builder.git
