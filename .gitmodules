@@ -7,3 +7,6 @@
 [submodule "image-builder"]
 	path = image-builder
 	url = git@github.com:M-JavadHeydarpour/image-builder.git
+[submodule "kubeman"]
+	path = kubeman
+	url = git@github.com:M-JavadHeydarpour/kubeman.git
